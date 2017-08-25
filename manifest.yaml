@@ -1,0 +1,7 @@
+package:
+  name: helloworld
+  actions:
+    hello:
+      location: src/hello.js
+    helloworld:
+      location: src/helloworld.js
