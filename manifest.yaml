@@ -1,5 +1,5 @@
 package:
-  name: helloworld
+  name: openwhisk-app
   actions:
     hello:
       location: src/hello.js
