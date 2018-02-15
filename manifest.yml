@@ -1,11 +1,11 @@
 packages:
-  package-11:
+  package-111:
     actions:
       hello:
         location: src/hello.js
       helloworld:
         location: src/helloworld.js
-  package-12:
+  package-123:
     actions:
       hello:
         location: src/hello.js
