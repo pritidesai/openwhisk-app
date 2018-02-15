@@ -5,3 +5,9 @@ packages:
         location: src/hello.js
       helloworld:
         location: src/helloworld.js
+  package-12:
+    actions:
+      hello:
+        location: src/hello.js
+      helloworld:
+        location: src/helloworld.js
